@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python Machine Learning**
 
-- 🤝 I’m looking for help with **Machine Learing**
+- 🤝 I’m looking for help with **Machine Learing, Docker and Kubernetes**
 
 - 💬 Ask me about **JavaScript, React, Node, MongoDB, MySQL, Golang**
 
