@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maxim Degtiarev</h1>
-<h3 align="center">Full-Stack Developer living in Argentina</h3>
+<h3 align="center">Full-Stack Developer MERN living in Argentina</h3>
 
-- 🔭 I’m currently working on **Ballroom Dancing Website for students and instructors**
+- 🔭 I’m currently working on **Different websites to make better responsive proyects**
 
-- 🌱 I’m currently learning **Typescript and AWS**
+- 🌱 I’m currently learning **Python Machine Learning**
 
-- 🤝 I’m looking for help with **GO and AWS**
+- 🤝 I’m looking for help with **Machine Learing**
 
-- 💬 Ask me about **JavaScript, React, Node and MongoDB**
+- 💬 Ask me about **JavaScript, React, Node, MongoDB, MySQL, Golang**
 
 - 📫 How to reach me **mxim.degt@gmailcom**
 
