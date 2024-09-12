@@ -17,8 +17,8 @@
 </p>
 
 <h3 align="left">Some projects:</h3>
-[Slack Clone](https://slack-clone-macks-v2.vercel.app/)
-[Natourex](https://notourex.onrender.com/)
+<a href="https://slack-clone-macks-v2.vercel.app/"> Macks | Slack Clone</a>
+<a href="https://notourex.onrender.com/"> Natourex </a>
 
 
 # 💻 Tech Stack:
