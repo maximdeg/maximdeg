@@ -18,6 +18,7 @@
 
 <h3 align="left">Some projects:</h3>
 <a href="https://slack-clone-macks-v2.vercel.app/"> Macks | Slack Clone</a>
+<br>
 <a href="https://notourex.onrender.com/"> Natourex </a>
 
 
