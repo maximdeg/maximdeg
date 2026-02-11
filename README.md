@@ -32,7 +32,7 @@
 | Project | Description |
 |--------|-------------|
 | **MaxTurnos** | Multi-provider medical appointment system built with Next.js 15, PostgreSQL, and Redis. Features automated WhatsApp notifications and signed cancellation tokens. |
-| **Light Worker on Duty** | Premium sustainable e-commerce experience. Custom Shopify theme development using Liquid, predictive search, and high-conversion UI/UX. |
+| **Shopify e-commerce** | Premium sustainable e-commerce experience. Custom Shopify theme development using Liquid, predictive search, and high-conversion UI/UX. |
 | **Macks \| Slack Clone** | Real-time communication platform with complex state management. |
 | **Natourex** | Modern booking landing page with focus on performance and responsive design. |
 
@@ -80,5 +80,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxim-degtiarev&show_icons=true&theme=tokyonight" alt="Maxim's GitHub Stats" />
 </p>
+
 
 
