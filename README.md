@@ -13,7 +13,7 @@
 - 🌱 **Currently learning:** Advanced Machine Learning with Python & AI Integrations.
 - 🤝 **Looking for help with:** Kubernetes orchestration and LLM fine-tuning.
 - 💬 **Ask me about:** Next.js, React, Shopify (Liquid), Node.js, and Docker.
-- 📫 **Reach me:** [mxim.degt@gmail.com](mailto:mxim.degt@gmail.com)
+- 📫 **Reach me:** [maxim.degtiarev.dev@gmail.com](mailto:maxim.degtiarev.dev@gmail.com)
 
 ---
 
@@ -80,6 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxim-degtiarev&show_icons=true&theme=tokyonight" alt="Maxim's GitHub Stats" />
 </p>
+
 
 
 
